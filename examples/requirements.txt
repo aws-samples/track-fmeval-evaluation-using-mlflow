@@ -1,5 +1,5 @@
 python-dotenv
-mlflow==2.16.2
+mlflow==3.1.0
 ray
 datasets
 evaluate
